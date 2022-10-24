@@ -1,2 +1,3 @@
 # RentMyTelescope
-LOL
+
+#mcserver.uk
